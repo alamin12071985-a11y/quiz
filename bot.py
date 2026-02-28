@@ -88,7 +88,7 @@ logger = logging.getLogger(__name__)
     STATE_ADMIN_SET_MIN_REFERRAL,
     STATE_ADMIN_SET_QUIZ_REWARD,
     STATE_ADMIN_SET_QUIZ_COST
-) = range(20)
+) = range(18)
 
 # ═══════════════════════════════════════════════════════════════
 # 🗄️ DATABASE HANDLER
